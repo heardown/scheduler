@@ -1,0 +1,3 @@
+include ':scheduler-lib'
+include ':app'
+rootProject.name = "scheduler"
