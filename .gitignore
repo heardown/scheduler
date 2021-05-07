@@ -49,6 +49,6 @@ captures/
 /.idea
 /build
 #/gradle
-*/apkß
+*/apk
 /.gradle/
 /.idea/
